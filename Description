@@ -1,0 +1,15 @@
+At first, I coded minesweeper game
+Then, I tried to add speech recognition function
+But, there are some problem
+If I use window OS, I cannot install library to recognize voice
+If I use Ubuntu, i can install those library but my microphone cannot use
+So I found a new way - Using "window speech recognition"
+"Window speech recognition" can listen my speech 
+But I faced a new problem
+"Window speech recognition" recognize areas in screen
+But minesweeper is a area - That mean it cannot choose small square 
+So, I must find a solution 
+Finally, I found answer. I do not paint a board and devide it into small pieces
+I paint each pieces independently. 
+So "Window speech recognition" can recognize each pieces
+
