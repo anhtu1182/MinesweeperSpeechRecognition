@@ -36,7 +36,7 @@ STATUS_ICONS = {
     STATUS_READY: "./images/plus.png",
     STATUS_PLAYING: "./images/smiley.png",
     STATUS_FAILED: "./images/cross.png",
-    STATUS_SUCCESS: "./images/smiley-lol.png",
+    STATUS_SUCCESS: "./images/smiley-lol.png", 
 }
 
 
